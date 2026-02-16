@@ -1,5 +1,15 @@
 # test-rsig-2026
 
+Untuk menjaga integritas dan kualitas hasil pengerjaan, mohon patuhi peraturan berikut:
+
+* **Bahasa Pemrograman:** Wajib menggunakan **PHP** (versi 7.4 atau terbaru).
+* **Durasi Waktu:** Maksimal **50 Menit**. Pengerjaan yang dikirim melewati batas waktu akan didiskualifikasi.
+* **Akses Informasi:** * ✅ Diperbolehkan menggunakan browser untuk mencari dokumentasi resmi (PHP.net) atau StackOverflow.
+    * ❌ **DILARANG** menggunakan alat bantu AI (seperti ChatGPT, Gemini, Claude, atau GitHub Copilot). Kami mencari logika murni dari pemikiran Anda.
+* **Pengiriman:**
+    1. Buka link ini **[Link](https://drive.google.com/drive/folders/10Su35XnRukw5Drgd8kVeYM2FzUV2iuOa?usp=sharing)** untuk upload file
+    2. Buat folder dengan nama masing-masing
+
 ## PHP
 ### 1. Pembuat Nama Band
 
