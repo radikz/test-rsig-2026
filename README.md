@@ -2,7 +2,7 @@
 
 Untuk menjaga integritas dan kualitas hasil pengerjaan, mohon patuhi peraturan berikut:
 
-* **Bahasa Pemrograman:** Wajib menggunakan **PHP** (versi 7.4 atau terbaru).
+* **Bahasa Pemrograman:** Wajib menggunakan **PHP**.
 * **Durasi Waktu:** Maksimal **50 Menit**. Pengerjaan yang dikirim melewati batas waktu akan didiskualifikasi.
 * **Akses Informasi:** * ✅ Diperbolehkan menggunakan browser untuk mencari dokumentasi resmi (PHP.net) atau StackOverflow.
     * ❌ **DILARANG** menggunakan alat bantu AI (seperti ChatGPT, Gemini, Claude, atau GitHub Copilot). Kami mencari logika murni dari pemikiran Anda.
@@ -10,8 +10,9 @@ Untuk menjaga integritas dan kualitas hasil pengerjaan, mohon patuhi peraturan b
     1. Buka link ini **[Link](https://drive.google.com/drive/folders/10Su35XnRukw5Drgd8kVeYM2FzUV2iuOa?usp=sharing)** untuk upload file
     2. Buat folder dengan nama masing-masing
 
+
 ## PHP
-### 1. Pembuat Nama Band
+### 1. Pembuat Nama Band (15 Poin)
 
 Intruksi: Teman saya sedang mencari nama baru untuk bandnya. Dia menyukai band yang menggunakan rumus: "Sebuah" + kata benda (dengan huruf pertama kapital).
 
@@ -35,7 +36,7 @@ Tugas Anda:
 
 Selesaikan fungsi yang menerima input berupa kata benda (string) dan mengembalikan nama band yang sesuai dalam bentuk string.
 
-### 2. Mencari Angka Ganjil
+### 2. Mencari Angka Ganjil (15 poin)
 Instruksi: Diberikan sebuah array bilangan bulat (integers), temukan satu angka yang muncul dalam jumlah ganjil.
 
 Ketentuan:
@@ -52,7 +53,7 @@ Contoh:
 
 `[1, 2, 2, 3, 3, 3, 4, 3, 3, 3, 2, 2, 1]` harus mengembalikan `4`, karena muncul 1 kali (ganjil).
 
-### 3. Akumulasi
+### 3. Akumulasi (20 poin)
 Instruksi: Buatlah sebuah fungsi bernama accum yang menerima sebuah string dan mengembalikan string baru dengan format seperti contoh di bawah. Setiap karakter dalam string asli akan diulang sesuai dengan posisinya (indeks ke-1), diawali dengan huruf kapital, dan diikuti oleh huruf kecil. Setiap kelompok huruf dipisahkan oleh tanda hubung (`-`).
 
 Ketentuan:
@@ -71,8 +72,8 @@ Contoh:
 ## SQL
 Import sql pada folder `sql/dump.sql`
 
-1. Tampilkan nama tes dan biaya yang harganya di atas Rp 50.000. Urutkan dari yang termahal.
-2. Tampilkan nama semua pasien berjenis kelamin 'P' (Perempuan) yang lahir sebelum tahun 1995.
-3. Tampilkan nama pasien, nama tes yang diambil, hasil nilai, dan nama dokter yang merujuknya.
-4. Tampilkan nama tes dan rata-rata hasil_nilai, tetapi kelompokkan berdasarkan jenis kelamin pasien (L/P).
-5. Tampilkan nama pasien yang sudah melakukan lebih dari satu jenis tes yang berbeda (bukan tes yang sama berulang kali). Nama kolom yang ditampilkan nama pasien dan jumlah tes
+1. Tampilkan nama tes dan biaya yang harganya di atas Rp 50.000. Urutkan dari yang termahal. (5 poin)
+2. Tampilkan nama semua pasien berjenis kelamin 'P' (Perempuan) yang lahir sebelum tahun 1995. (7 poin)
+3. Tampilkan nama pasien, nama tes yang diambil, hasil nilai, dan nama dokter yang merujuknya. (9 poin)
+4. Tampilkan nama tes dan rata-rata hasil_nilai, tetapi kelompokkan berdasarkan jenis kelamin pasien (L/P). (12 poin)
+5. Tampilkan nama pasien yang sudah melakukan lebih dari satu jenis tes yang berbeda (bukan tes yang sama berulang kali). Nama kolom yang ditampilkan nama pasien dan jumlah tes (17 poin)
