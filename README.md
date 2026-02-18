@@ -65,8 +65,11 @@ Karakter pertama di setiap kelompok harus **Huruf Kapital**.
 Sisa karakter di kelompok tersebut harus **Huruf Kecil**.
 
 Contoh: 
+
 `akum("abcd")` -> `A-Bb-Ccc-Dddd`
+
 `akum("RqaEzty")` -> `R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy`
+
 `akum("cwAt")` -> `C-Ww-Aaa-Tttt`
 
 ## SQL
